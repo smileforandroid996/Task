@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "651504663733",
+    "firebase_url": "https://task-159f5.firebaseio.com",
+    "project_id": "task-159f5",
+    "storage_bucket": "task-159f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:651504663733:android:ac42376ddf06fc03",
+        "android_client_info": {
+          "package_name": "com.smile.mohamed.task"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "651504663733-l2n7gktolh3r4g9cesfrhs6qpa5iopl2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQkiPTtnz7TKxO1jzOJ_2UwARPbi_gdF8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
